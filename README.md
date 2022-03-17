@@ -1,9 +1,7 @@
-<p align="center"><a href="https://github.com/khoa083">
-[<img height="165" src="https://github-readme-stats.vercel.app/api?username=khoa083&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" />](#gh-dark-mode-only)</a>
-&nbsp;&nbsp;&nbsp;
-[<img height="165" src="https://github-readme-stats.vercel.app/api?username=khoa083&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" />](#gh-light-mode-only)</a>
-&nbsp;&nbsp;&nbsp;
-</a></p>
+
+[<img height="165" src="https://github-readme-stats.vercel.app/api?username=khoa083&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" />](#gh-dark-mode-only)
+[<img height="165" src="https://github-readme-stats.vercel.app/api?username=khoa083&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" />](#gh-light-mode-only)
+
 
 # Hi there, I'm Minh Khoa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [<img align="left" alt="linkedind" width="35px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/linkedin.gif?raw=true" />](https://www.linkedin.com/in/khoa-minh-8b9a2b183/#gh-dark-mode-only)
