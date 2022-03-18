@@ -1,6 +1,6 @@
 
 [<img height="165" src="https://github-readme-stats.vercel.app/api?username=khoa083&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" />](#gh-dark-mode-only)
-[<img height="165" src="https://github-readme-stats.vercel.app/api?username=khoa083&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" />](#gh-light-mode-only)
+
 
 
 # Hi there, I'm Minh Khoa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
