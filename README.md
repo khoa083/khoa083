@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=30&lines=Welcome+to+my+profile&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=30&lines=Welcome+to+my+profile;Minh+Khoa&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 <p align="center"><a href="https://github.com/khoa083">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=khoa083&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
