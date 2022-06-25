@@ -1,6 +1,10 @@
-
 [<img height="165" src="https://github-readme-stats.vercel.app/api?username=khoa083&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" />]()
 
+<p align="center"><a href="https://github.com/khoa083">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=khoa083&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/khoa083"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoa083&layout=compact&theme=react&hide_border=true" />
+</a></p>
 
 
 # Hi there, I'm Minh Khoa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px">
@@ -33,10 +37,10 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 <li>  😐 <i>Studying at VietNam</i></li>
 <li>  😪 <i>Love Sleeping</i></li>
 <li>  💔 <i>Born Single</i></li>
-<li>  🐍 <i>Trying to learn PHP & SQLI</i></li>
+<li>  🐍 <i>Trying to learn Python & Web</i></li>
 <li>  🤐 <i>Aim : Become a Software Engineer</i></li>
 
-- 💼 any freelance work? do reach, [email](mailto:minhkhoa065@gmail.com) 
+---------------------------------------------<li> 💼 Any freelance work? do reach, [Email](mailto:minhkhoa065@gmail.com) 
 
 <h3><b><i>🔥 Languages and tools:</i></b></h3>
 
