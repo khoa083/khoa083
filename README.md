@@ -3,7 +3,7 @@
 
 
 
-# Hi there, I'm Minh Khoa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Minh Khoa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="45px">
 [<img align="left" alt="linkedind" height="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/linkedin.gif?raw=true" />](https://www.linkedin.com/in/khoa-minh-8b9a2b183/#gh-dark-mode-only)
 [<img align="left" alt="linkedinl" height="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/linkedin_light.gif?raw=true" />](https://www.linkedin.com/in/khoa-minh-8b9a2b183/#gh-light-mode-only)
 
