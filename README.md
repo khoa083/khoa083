@@ -38,7 +38,7 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 <li>  🐍 <i>Trying to learn Python & Web</i></li>
 <li>  🤐 <i>Aim : Become a Software Engineer</i></li>
 
----------------------------------------------<li> 💼 Any freelance work? do reach, [Email](mailto:minhkhoa065@gmail.com) 
+---------------------------------------------<li> 💼 Any freelance work? do reach [Email](mailto:minhkhoa065@gmail.com).
 
 <h3><b><i>🔥 Languages and tools:</i></b></h3>
 
