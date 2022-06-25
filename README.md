@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=30&lines=Welcome+to+my+profile&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 <p align="center"><a href="https://github.com/khoa083">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=khoa083&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
@@ -8,7 +8,7 @@
 </a></p>
 
 
-# Hi there, I'm Minh Khoa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px">
+# Hi there, I'm Minh Khoa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="28px">
 [<img align="left" alt="linkedind" height="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/linkedin.gif?raw=true" />](https://www.linkedin.com/in/khoa-minh-8b9a2b183/#gh-dark-mode-only)
 [<img align="left" alt="linkedinl" height="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/linkedin_light.gif?raw=true" />](https://www.linkedin.com/in/khoa-minh-8b9a2b183/#gh-light-mode-only)
 
