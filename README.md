@@ -4,17 +4,17 @@
 
 
 # Hi there, I'm Minh Khoa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[<img align="left" alt="linkedind" width="35px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/linkedin.gif?raw=true" />](https://www.linkedin.com/in/khoa-minh-8b9a2b183/#gh-dark-mode-only)
-[<img align="left" alt="linkedinl" width="35px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/linkedin_light.gif?raw=true" />](https://www.linkedin.com/in/khoa-minh-8b9a2b183/#gh-light-mode-only)
+[<img align="left" alt="linkedind" height="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/linkedin.gif?raw=true" />](https://www.linkedin.com/in/khoa-minh-8b9a2b183/#gh-dark-mode-only)
+[<img align="left" alt="linkedinl" height="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/linkedin_light.gif?raw=true" />](https://www.linkedin.com/in/khoa-minh-8b9a2b183/#gh-light-mode-only)
 
-[<img align="left" alt="twitterd" width="35px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/twitter.gif?raw=true" />](https://twitter.com/KMK2026#gh-dark-mode-only)
-[<img align="left" alt="twitterl" width="35px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/twitter_light.gif?raw=true" />](https://twitter.com/KMK2026#gh-light-mode-only)
+[<img align="left" alt="twitterd" height="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/twitter.gif?raw=true" />](https://twitter.com/KMK2026#gh-dark-mode-only)
+[<img align="left" alt="twitterl" height="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/twitter_light.gif?raw=true" />](https://twitter.com/KMK2026#gh-light-mode-only)
 
-[<img align="left" alt="telegramd" width="35px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/telegram.gif?raw=true" />](https://t.me/K_black202#gh-dark-mode-only)
-[<img align="left" alt="telegraml" width="35px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/telegram.light.gif?raw=true" />](https://t.me/K_black202#gh-light-mode-only)
+[<img align="left" alt="telegramd" height="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/telegram.gif?raw=true" />](https://t.me/K_black202#gh-dark-mode-only)
+[<img align="left" alt="telegraml" height="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/telegram.light.gif?raw=true" />](https://t.me/K_black202#gh-light-mode-only)
 
-[<img align="left" alt="youtubed" width="35px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/youtube.gif?raw=true" />](https://www.youtube.com/channel/UC8PLJnDrDGZZSMeQ3LbUKEg#gh-dark-mode-only)
-[<img align="left" alt="youtubel" width="35px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/youtube_light.gif?raw=true" />](https://www.youtube.com/channel/UC8PLJnDrDGZZSMeQ3LbUKEg#gh-light-mode-only)
+[<img align="left" alt="youtubed" height="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/youtube.gif?raw=true" />](https://www.youtube.com/channel/UC8PLJnDrDGZZSMeQ3LbUKEg#gh-dark-mode-only)
+[<img align="left" alt="youtubel" height="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/youtube_light.gif?raw=true" />](https://www.youtube.com/channel/UC8PLJnDrDGZZSMeQ3LbUKEg#gh-light-mode-only)
 <br/>
  <hr  width="25%" align="left" />
  
