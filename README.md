@@ -16,6 +16,7 @@
 [<img align="left" alt="youtubed" height="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/youtube.gif?raw=true" />](https://www.youtube.com/channel/UC8PLJnDrDGZZSMeQ3LbUKEg#gh-dark-mode-only)
 [<img align="left" alt="youtubel" height="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/youtube_light.gif?raw=true" />](https://www.youtube.com/channel/UC8PLJnDrDGZZSMeQ3LbUKEg#gh-light-mode-only)
 <br/>
+<br/>
  <hr  width="25%" align="left" />
  
 ![](https://visitor-badge.glitch.me/badge?page_id=khoa083.khoa)
