@@ -64,7 +64,7 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 
 <h3><b><i>🎧 Spotify Playing:</i></b></h3>
 
-[![Spotify](https://hai8t6-9z3r.vercel.app/api/spotify)](https://open.spotify.com/user/31p7orzttk2wkljgjmgjynrghx34)
+[![Spotify](https://hai8t6-9z3r.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31p7orzttk2wkljgjmgjynrghx34)
 
 <h3><b><i>🏆 Github Statistics:</i></b></h3>
 
