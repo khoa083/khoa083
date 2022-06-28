@@ -73,6 +73,7 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 [![trophy](https://github-profile-trophy.vercel.app/?username=khoa083)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 [![trophy](https://github-profile-trophy.vercel.app/?username=khoa083&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
 
+<h3><b><i>🐍 Snake !!!!</i></b></h3>
 
 ![snake gif](https://github.com/khoa083/khoa083/blob/output/github-contribution-grid-snake.svg)
 
