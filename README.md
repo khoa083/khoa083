@@ -64,12 +64,16 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 
 [![Spotify](https://hai8t6-9z3r.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31p7orzttk2wkljgjmgjynrghx34)
 
-<h3><b><i>🏆 Github Statistics:</i></b></h3>
+<h3><b><i>📈 My Contribution Graph:</i></b></h3>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=khoa083)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
-[![trophy](https://github-profile-trophy.vercel.app/?username=khoa083&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=khoa083)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
+[![trophy](https://github-profile-trophy.vercel.app/?username=khoa083&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only) -->
 
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=khoa083&theme=redical">
+</p> 
+  
 <h3><b><i><img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="30"> Snake !!!!</i></b></h3>
 
 ![snake gif](https://github.com/khoa083/khoa083/blob/output/github-contribution-grid-snake.svg)
