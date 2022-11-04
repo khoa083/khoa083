@@ -60,6 +60,7 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 [<img height="35" alt="githubd" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/github_dark.png" />](#gh-dark-mode-only)
 [<img height="35" alt="githubl" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/github_light.png" />](#gh-light-mode-only)
 
+
 <h3><b><i>🎧 Spotify Playing:</i></b></h3>
 
 [![Spotify](https://hai8t6-9z3r.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31p7orzttk2wkljgjmgjynrghx34)
