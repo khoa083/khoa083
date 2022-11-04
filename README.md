@@ -61,7 +61,7 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 [<img height="35" alt="githubl" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/github_light.png" />](#gh-light-mode-only) -->
 <!-- Ảnh svg 4/11/2022-3h33CH -->
   
-<img height="35" alt="bash" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/bash/bash-original.svg" /> 
+<a href="https://github.com/khoa083"><img height="35" alt="bash" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/bash/bash-original.svg" /></a> 
 <img height="35" alt="bootsrap" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/bootstrap/bootstrap-original-wordmark.svg" /> 
 <img height="35" alt="css" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/css3/css3-plain-wordmark.svg" /> 
 <img height="35" alt="html" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/html5/html5-plain-wordmark.svg" /> 
