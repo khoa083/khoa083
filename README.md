@@ -62,12 +62,12 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 <!-- Ảnh svg 4/11/2022-3h33CH -->
   
 <a href="https://github.com/khoa083"><img height="35" alt="bash" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/bash/bash-original.svg" /></a> 
-<img height="35" alt="bootsrap" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/bootstrap/bootstrap-original-wordmark.svg" /> 
-<img height="35" alt="css" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/css3/css3-plain-wordmark.svg" /> 
-<img height="35" alt="html" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/html5/html5-plain-wordmark.svg" /> 
-<img height="35" alt="js" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/javascript/javascript-plain.svg" /> 
-<img height="35" alt="sql" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/mysql/mysql-original-wordmark.svg" /> 
-<img height="35" alt="react" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/react/react-original.svg" /> 
+<a href="https://github.com/khoa083"><img height="35" alt="bootsrap" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/bootstrap/bootstrap-original-wordmark.svg" /></a> 
+<a href="https://github.com/khoa083"><img height="35" alt="css" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/css3/css3-plain-wordmark.svg" /></a>  
+<a href="https://github.com/khoa083"><img height="35" alt="html" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/html5/html5-plain-wordmark.svg" /></a>  
+<a href="https://github.com/khoa083"><img height="35" alt="js" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/javascript/javascript-plain.svg" /></a>  
+<a href="https://github.com/khoa083"><img height="35" alt="sql" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/mysql/mysql-original-wordmark.svg" /></a>  
+<a href="https://github.com/khoa083"><img height="35" alt="react" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/react/react-original.svg" /></a>  
   
 <h3><b><i>🎧 Spotify Playing:</i></b></h3>
 
