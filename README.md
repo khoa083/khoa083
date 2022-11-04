@@ -44,8 +44,8 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 ---------------------------------------------<li> <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="25"> Any freelance work? do reach [Email](mailto:minhkhoa065@gmail.com).
 
 <h3><b><i>🔥 Languages and tools:</i></b></h3>
-
-[<img height="35" alt="terminald" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/terminal-dark.svg" />](#gh-dark-mode-only)
+<!-- Ảnh png (Cữ) -->
+<!-- [<img height="35" alt="terminald" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/terminal-dark.svg" />](#gh-dark-mode-only)
 [<img height="35" alt="terminall" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/terminal-light.svg" />](#gh-light-mode-only)
 [<img height="35" alt="vstudiod" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/vstudio_dark.png" />](#gh-dark-mode-only)
 [<img height="35" alt="vstudiol" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/vstudio_light.png" />](#gh-light-mode-only)
@@ -58,9 +58,17 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 [<img height="35" alt="gitd" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/git_dark.png" />](#gh-dark-mode-only)
 [<img height="35" alt="gitl" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/git_light.png" />](#gh-light-mode-only)
 [<img height="35" alt="githubd" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/github_dark.png" />](#gh-dark-mode-only)
-[<img height="35" alt="githubl" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/github_light.png" />](#gh-light-mode-only)
-
-
+[<img height="35" alt="githubl" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/github_light.png" />](#gh-light-mode-only) -->
+<!-- Ảnh svg 4/11/2022-3h33CH -->
+  
+<img height="35" alt="bash" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/bash/bash-original.svg" /> 
+<img height="35" alt="bootsrap" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/bootstrap/bootstrap-original-wordmark.svg" /> 
+<img height="35" alt="css" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/css3/css3-plain-wordmark.svg" /> 
+<img height="35" alt="html" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/html5/html5-plain-wordmark.svg" /> 
+<img height="35" alt="js" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/javascript/javascript-plain.svg" /> 
+<img height="35" alt="sql" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/mysql/mysql-original-wordmark.svg" /> 
+<img height="35" alt="react" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/react/react-original.svg" /> 
+  
 <h3><b><i>🎧 Spotify Playing:</i></b></h3>
 
 [![Spotify](https://hai8t6-9z3r.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31p7orzttk2wkljgjmgjynrghx34)
