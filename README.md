@@ -68,7 +68,7 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 
 [![Spotify](https://hai8t6-9z3r.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31p7orzttk2wkljgjmgjynrghx34)
 
-<h3><b><i>📈 My Contribution Graph: </i></b></h3>
+<h3><b><i>📈 My Contribution Graph:</i></b></h3>
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=khoa083)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
