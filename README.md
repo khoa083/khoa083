@@ -59,13 +59,14 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 [<img height="35" alt="gitl" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/git_light.png" />](#gh-light-mode-only)
 [<img height="35" alt="githubd" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/github_dark.png" />](#gh-dark-mode-only)
 [<img height="35" alt="githubl" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/github_light.png" />](#gh-light-mode-only) -->
-<!-- Ảnh svg 4/11/2022-3h33CH -->
+<!-- END png cũ -->
   
+<!-- Ảnh svg 4/11/2022-3h33CH -->
 <a href="https://github.com/khoa083"><img height="35" alt="bash" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/bash/bash-original.svg" /></a> 
 <a href="https://github.com/khoa083"><img height="35" alt="bootsrap" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/bootstrap/bootstrap-original-wordmark.svg" /></a> <a href="https://github.com/khoa083"><img height="35" alt="css" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/css3/css3-plain-wordmark.svg" /></a>  <a href="https://github.com/khoa083"><img height="35" alt="html" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/html5/html5-plain-wordmark.svg" /></a> <a href="https://github.com/khoa083"><img height="35" alt="js" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/javascript/javascript-plain.svg" /></a>  <a href="https://github.com/khoa083"><img height="35" alt="sql" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/mysql/mysql-original-wordmark.svg" /></a>  <a href="https://github.com/khoa083"><img height="35" alt="react" src="https://raw.githubusercontent.com/khoa083/icon/main/icons/react/react-original.svg" /></a>  
+<!-- END SVG -->
   
 <h3><b><i>🎧 Spotify Playing:</i></b></h3>
-
 [![Spotify](https://hai8t6-9z3r.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31p7orzttk2wkljgjmgjynrghx34)
 
 <h3><b><i>📈 My Contribution Graph:</i></b></h3>
