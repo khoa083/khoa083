@@ -1,4 +1,4 @@
-<!-- Nếu có sao chép xin vui lòng để link !!! -->
+<!-- NẾU CÓ COPY VUI LÒNG CRE NGUỒN :))) -->
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 <p align="center">
