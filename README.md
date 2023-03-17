@@ -48,7 +48,7 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 ```javascript
 const khoa = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "HTML", "CSS", "Java", "PHP"],
+  code: ["Javascript", "HTML", "CSS", "Java"],
   architecture: [],
   askMeAbout: ["web dev"],
     technologies: {
@@ -57,7 +57,6 @@ const khoa = {
           },
           Databases: ["MySql"]
     },
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 ---------------------------------------------<li> 
