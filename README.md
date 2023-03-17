@@ -27,7 +27,7 @@
 [<img align="left" alt="youtubel" width="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/youtube_light.gif?raw=true" />](https://www.youtube.com/channel/UC8PLJnDrDGZZSMeQ3LbUKEg#gh-light-mode-only)
 <br/>
 <br/>
- <hr  width="25%" align="left" />
+ <hr  width="20%" align="left" />
  
 ![](https://visitor-badge.glitch.me/badge?page_id=khoa083.khoa)
 <br/>
