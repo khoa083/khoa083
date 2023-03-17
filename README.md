@@ -43,7 +43,8 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 <li>  🔥 <i>Trying to learn Bash Script,Batch files & Web</i></li>
 <li>  🤐 <i>Aim : Become a Software Engineer</i></li>
 
----------------------------------------------<li> <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="25"> Any freelance work? do reach [Email](mailto:minhkhoa065@gmail.com).
+---------------------------------------------<li> 
+  <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="25"> Any freelance work? do reach [Email](mailto:minhkhoa065@gmail.com).
 
 <h3><b><i>✨ Languages and tools:</i></b></h3>
 <!-- Ảnh png (Cũ) -->
