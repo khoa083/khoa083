@@ -38,11 +38,23 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
-<h3><b><i>🤠 About me :</i></b></h3>
+<!-- <h3><b><i>🤠 About me :</i></b></h3>
 <li>  😐 <i>Studying at VietNam</i></li>
 <li>  🔥 <i>Trying to learn Bash Script,Batch files & Web</i></li>
-<li>  🤐 <i>Aim : Become a Software Engineer</i></li>
-
+<li>  🤐 <i>Aim : Become a Software Engineer</i></li> -->
+```javascript
+const khoa = {
+  pronouns: "He" | "Him",
+  code: [Javascript, HTML, CSS, Java],
+  architecture: [],
+  askMeAbout: ["web dev",...],
+    technologies: {
+        FrontEnd: {
+            js: ["Reactjs"],
+        },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 ---------------------------------------------<li> 
   <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="25"> Any freelance work? do reach [Email](mailto:minhkhoa065@gmail.com).
 
