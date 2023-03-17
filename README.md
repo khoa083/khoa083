@@ -49,11 +49,12 @@ const khoa = {
   architecture: [],
   askMeAbout: ["web dev",...],
     technologies: {
-        FrontEnd: {
-            js: ["Reactjs"],
-        },
-        Databases: ["MySql",...],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+          FrontEnd: {
+              js: ["Reactjs"]
+          },
+          Databases: ["MySql",...]
+    },
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 ---------------------------------------------<li> 
