@@ -59,7 +59,7 @@ const khoa = {
     },
 }
 ```
----------------------------------------------<li> 
+
   <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="25"> Any freelance work? do reach [Email](mailto:minhkhoa065@gmail.com).
 
 <h3><b><i>✨ Languages and tools:</i></b></h3>
