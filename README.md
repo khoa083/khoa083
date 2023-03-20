@@ -14,7 +14,7 @@
 
 # Hi there, I'm Minh Khoa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="28px">
 
-[<img align="left" alt="linkedind" width="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/linkedin.gif?raw=true" />](https://www.linkedin.com/in/khoa-minh-8b9a2b183/#gh-dark-mode-only)
+<!-- [<img align="left" alt="linkedind" width="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/linkedin.gif?raw=true" />](https://www.linkedin.com/in/khoa-minh-8b9a2b183/#gh-dark-mode-only)
 [<img align="left" alt="linkedinl" width="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/linkedin_light.gif?raw=true" />](https://www.linkedin.com/in/khoa-minh-8b9a2b183/#gh-light-mode-only)
 
 [<img align="left" alt="twitterd" width="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/twitter.gif?raw=true" />](https://twitter.com/KMK2026#gh-dark-mode-only)
@@ -24,7 +24,12 @@
 [<img align="left" alt="telegraml" width="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/telegram.light.gif?raw=true" />](https://t.me/K_black202#gh-light-mode-only)
 
 [<img align="left" alt="youtubed" width="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/youtube.gif?raw=true" />](https://www.youtube.com/channel/UC8PLJnDrDGZZSMeQ3LbUKEg#gh-dark-mode-only)
-[<img align="left" alt="youtubel" width="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/youtube_light.gif?raw=true" />](https://www.youtube.com/channel/UC8PLJnDrDGZZSMeQ3LbUKEg#gh-light-mode-only)
+[<img align="left" alt="youtubel" width="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/youtube_light.gif?raw=true" />](https://www.youtube.com/channel/UC8PLJnDrDGZZSMeQ3LbUKEg#gh-light-mode-only) -->
+<!-- update icon 20/3/2023 - 11h50 gif transparent-->
+[<img align="left" alt="linkedind" width="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/gif-transparent/linkedin-transparent.gif?raw=true" />](https://www.linkedin.com/in/khoa-minh-8b9a2b183/)
+[<img align="left" alt="twitterd" width="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/gif-transparent/twitter-transparent.gif?raw=true" />](https://twitter.com/KMK2026)
+[<img align="left" alt="telegramd" width="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/gif-transparent/telegram-transparent.gif?raw=true" />](https://t.me/K_black202)
+[<img align="left" alt="youtubed" width="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/gif-transparent/youtube-transparent.gif?raw=true" />](https://www.youtube.com/channel/UC8PLJnDrDGZZSMeQ3LbUKEg)
 <br/>
 <br/>
  <hr  width="20%" align="left" />
@@ -33,8 +38,9 @@
 <br/>
 Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, looking forward to your help  😁😁😁. 
 
-[<img align="right" alt="GIFd" src="https://raw.githubusercontent.com/khoa083/khoa/main/backend.gif?raw=true" width="500" height="320" />](#gh-dark-mode-only)
-[<img align="right" alt="GIFl" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/backend_light.gif?raw=true" width="500" height="320" />](#gh-light-mode-only)
+<!-- [<img align="right" alt="GIFd" src="https://raw.githubusercontent.com/khoa083/khoa/main/backend.gif?raw=true" width="500" height="320" />](#gh-dark-mode-only)
+[<img align="right" alt="GIFl" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/backend_light.gif?raw=true" width="500" height="320" />](#gh-light-mode-only) -->
+[<img align="right" alt="GIFd" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/gif-transparent/backend.gif?raw=true" width="500" height="320" />]
 
 
 
