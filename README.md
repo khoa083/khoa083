@@ -34,7 +34,7 @@
 <br/>
  <hr  width="20%" align="left" />
  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=khoa083.khoa)
+![](https://visitor-badge.glitch.me/badge?page_id=khoa083.khoa)
 <br/>
 
 Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, looking forward to your help  😁😁😁. 
