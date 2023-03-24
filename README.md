@@ -44,7 +44,6 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 
 
 
-
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
 <!-- <h3><b><i>🤠 About me :</i></b></h3>
