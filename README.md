@@ -21,7 +21,6 @@
 [<img align="left" alt="twitterl" width="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/twitter_light.gif?raw=true" />](https://twitter.com/KMK2026#gh-light-mode-only)
 
 
-
 [<img align="left" alt="youtubed" width="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/youtube.gif?raw=true" />](https://www.youtube.com/channel/UC8PLJnDrDGZZSMeQ3LbUKEg#gh-dark-mode-only)
 [<img align="left" alt="youtubel" width="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/youtube_light.gif?raw=true" />](https://www.youtube.com/channel/UC8PLJnDrDGZZSMeQ3LbUKEg#gh-light-mode-only) -->
 <!-- update icon 20/3/2023 - 11h50 gif transparent-->
