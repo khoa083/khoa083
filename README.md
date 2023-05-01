@@ -1,18 +1,18 @@
 <!-- NẾU CÓ COPY VUI LÒNG CRE NGUỒN :))) -->
 
 <!-- <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"> -->
-<!-- <p align="center">
+ <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=2500&lines=Welcome+to+my+profile;Hi+✌️✌️✌️&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
-<p align="center"><a href="https://github.com/khoa083">
+<!-- <p align="center"><a href="https://github.com/khoa083">
 <img height="165" src="https://readme-stats-khoa.vercel.app/api?username=khoa083&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/khoa083"><img src="https://readme-stats-khoa.vercel.app/api/top-langs/?username=khoa083&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
 
-# Hi there, I'm Minh Khoa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="28px"> -->
+# Hi there, I'm Minh Khoa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="28px">  -->
 
 <!-- [<img align="left" alt="linkedind" width="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/linkedin.gif?raw=true" />](https://www.linkedin.com/in/khoa-minh-8b9a2b183/#gh-dark-mode-only)
 [<img align="left" alt="linkedinl" width="45px" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/linkedin_light.gif?raw=true" />](https://www.linkedin.com/in/khoa-minh-8b9a2b183/#gh-light-mode-only)
@@ -48,6 +48,7 @@ Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, lo
 <li>  😐 <i>Studying at VietNam</i></li>
 <li>  🔥 <i>Trying to learn Bash Script,Batch files & Web</i></li>
 <li>  🤐 <i>Aim : Become a Software Engineer</i></li> -->
+<!--
 ```javascript
 const khoa = {
   pronouns: "He" | "Him",
@@ -62,6 +63,7 @@ const khoa = {
     },
 }
 ```
+-->
 
 <!-- <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="25"> Any freelance work? do reach [Email](mailto:minhkhoa065@gmail.com).
 
