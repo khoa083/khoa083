@@ -1,10 +1,11 @@
 <!-- NẾU CÓ COPY VUI LÒNG CRE NGUỒN :))) -->
 
 <!-- <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"> 
+-->
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=2500&lines=Welcome+to+my+profile;Hi+✌️✌️✌️&font=Fira%20Code&center=true&width=380&height=50">
 </p>
--->
+
 <!-- <p align="center"><a href="https://github.com/khoa083">
 <img height="165" src="https://readme-stats-khoa.vercel.app/api?username=khoa083&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
