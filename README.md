@@ -1,10 +1,10 @@
 <!-- NẾU CÓ COPY VUI LÒNG CRE NGUỒN :))) -->
 
-<!-- <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"> -->
+<!-- <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"> 
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=2500&lines=Welcome+to+my+profile;Hi+✌️✌️✌️&font=Fira%20Code&center=true&width=380&height=50">
 </p>
-
+-->
 <!-- <p align="center"><a href="https://github.com/khoa083">
 <img height="165" src="https://readme-stats-khoa.vercel.app/api?username=khoa083&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
@@ -32,7 +32,7 @@
 <br/>
 <br/>
  <hr  width="20%" align="left" />
- -->
+ 
 ![](https://visitor-badge.glitch.me/badge?page_id=khoa083.khoa)
 <br/>
 
@@ -66,7 +66,7 @@ const khoa = {
 
 
 <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="25"> Any freelance work? do reach [Email](mailto:minhkhoa065@gmail.com).
-
+-->
 <!-- <h3><b><i>✨ Languages and tools:</i></b></h3> -->
 <!-- Ảnh png (Cũ) -->
 <!-- [<img height="35" alt="terminald" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/terminal-dark.svg" />](#gh-dark-mode-only)
