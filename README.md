@@ -65,9 +65,9 @@ const khoa = {
 ```
 
 
-<!-- <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="25"> Any freelance work? do reach [Email](mailto:minhkhoa065@gmail.com).
+<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="25"> Any freelance work? do reach [Email](mailto:minhkhoa065@gmail.com).
 
-<h3><b><i>✨ Languages and tools:</i></b></h3> -->
+<!-- <h3><b><i>✨ Languages and tools:</i></b></h3> -->
 <!-- Ảnh png (Cũ) -->
 <!-- [<img height="35" alt="terminald" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/terminal-dark.svg" />](#gh-dark-mode-only)
 [<img height="35" alt="terminall" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/1/terminal-light.svg" />](#gh-light-mode-only)
