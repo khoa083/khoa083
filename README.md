@@ -36,19 +36,19 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=khoa083.khoa)
 <br/>
 
-Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, looking forward to your help  😁😁😁. 
+Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, looking forward to your help  😁😁😁. -->
 [<img align="right" alt="GIFd" src="https://raw.githubusercontent.com/khoa083/khoa/main/backend.gif?raw=true" width="500" height="320" />](#gh-dark-mode-only)
 [<img align="right" alt="GIFl" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/backend_light.gif?raw=true" width="500" height="320" />](#gh-light-mode-only)
 
 
 
-<b><i>💻 I'm a Student & A part time Programmer</i></b> -->
+<b><i>💻 I'm a Student & A part time Programmer</i></b> 
 
-<!-- <h3><b><i>🤠 About me :</i></b></h3>
+<h3><b><i>🤠 About me :</i></b></h3>
 <li>  😐 <i>Studying at VietNam</i></li>
 <li>  🔥 <i>Trying to learn Bash Script,Batch files & Web</i></li>
-<li>  🤐 <i>Aim : Become a Software Engineer</i></li> -->
-<!--
+<li>  🤐 <i>Aim : Become a Software Engineer</i></li> 
+
 ```javascript
 const khoa = {
   pronouns: "He" | "Him",
@@ -63,7 +63,7 @@ const khoa = {
     },
 }
 ```
--->
+
 
 <!-- <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="25"> Any freelance work? do reach [Email](mailto:minhkhoa065@gmail.com).
 
