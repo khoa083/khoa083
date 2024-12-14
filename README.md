@@ -117,6 +117,7 @@ const khoa = {
 </picture>-->
 <a href="https://github.com/devxb/gitanimals">
 <img
+  align="center"
   src="https://render.gitanimals.org/farms/khoa083"
   width="600"
   height="300"
