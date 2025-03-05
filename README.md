@@ -108,7 +108,7 @@ const khoa = {
   
 <!-- <h3><b><i><img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="30"> Snake !!! </i></b></h3> -->
 
-<!-- ![snake gif](https://github.com/khoa083/khoa083/blob/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/khoa083/khoa083/blob/output/github-contribution-grid-snake.svg) 
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/khoa083/khoa083/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -125,4 +125,4 @@ const khoa = {
 </a>
 </p> -->
 
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"> 
+<!--  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"> -->
