@@ -115,7 +115,7 @@ const khoa = {
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/khoa083/khoa083/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>-->
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/khoa083"
@@ -123,6 +123,6 @@ const khoa = {
   height="300"
 />
 </a>
-</p>
+</p> -->
 
-<!-- <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"> -->
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"> 
