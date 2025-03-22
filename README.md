@@ -104,7 +104,6 @@ const khoa = {
 <!--  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=khoa083&theme=redical">
 </p>  -->
   
-<!-- <h3><b><i><img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="30"> Snake !!! </i></b></h3> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/khoa083/khoa083/blob/output/github-contribution-grid-snake-dark.svg" />
