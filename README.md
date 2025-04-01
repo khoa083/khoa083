@@ -35,7 +35,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=khoa083.khoa)
 <br/>
 
-Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, looking forward to your help  😁😁😁. 
 [<img align="right" alt="GIFd" src="https://raw.githubusercontent.com/khoa083/khoa/main/backend.gif?raw=true" width="500" height="320" />](#gh-dark-mode-only)
 [<img align="right" alt="GIFl" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/2/backend_light.gif?raw=true" width="500" height="320" />](#gh-light-mode-only)
 
