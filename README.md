@@ -7,7 +7,7 @@
     <h1 align="center">✩&emsp;Kblack&emsp;✩</h1>
 </p>
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=2500&lines=Welcome+to+my+profile;Hi+✌️✌️✌️&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=20&duration=2500&lines=Welcome+to+my+profile;Hi+✌️✌️✌️&font=Fira%20Code&center=true&width=280&height=50">
 </p>
 <!--
 <picture>
