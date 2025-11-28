@@ -8,4 +8,3 @@
     <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/<your-username>/<repo-name>/assets/dist/pacman-contribution-graph.svg">
   </picture>
 </p>
-
